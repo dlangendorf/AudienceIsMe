@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e75095e9ede249",
+        "id": "9d4f73c0ef116193",
         "type": "tabs",
         "children": [
           {
-            "id": "a44671ef479e1939",
+            "id": "c86a85d3a4516c71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -213,14 +213,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "a44671ef479e1939",
+  "active": "c86a85d3a4516c71",
   "lastOpenFiles": [
-    "drafts/templates/AIM Template.md",
-    "content/First \"Official\" Post.md",
+    "drafts/AI Declaration.md",
     "content/Hello. This is Audience Is Me..md",
-    "content/AI Declaration.md",
-    "Untitled.md",
+    "content/First \"Official\" Post.md",
     "content/index.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "drafts/templates/AIM Template.md",
+    "content/AI Declaration.md",
     "content/First Post.md",
     "public/First-\"Official\"-Post-og-image.webp",
     "public/First-\"Official\"-Post.html",
@@ -253,8 +255,6 @@
     "node_modules/@bufbuild/protobuf/README.md",
     "node_modules/@img/sharp-libvips-darwin-arm64/README.md",
     "node_modules/colorjs.io/README.md",
-    "node_modules/sass-embedded/README.md",
-    "node_modules/speech-rule-engine/lib/README.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/dog.gif",
