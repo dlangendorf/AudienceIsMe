@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/First Official Post.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Official Post"
+              "title": "index"
             }
           }
         ]
@@ -215,10 +215,10 @@
   },
   "active": "c86a85d3a4516c71",
   "lastOpenFiles": [
+    "content/First Official Post.md",
     "public/First-Official-Post-og-image.webp",
     "public/First-Official-Post.html",
     "content/index.md",
-    "content/First Official Post.md",
     "drafts/AI Declaration.md",
     "content/Hello. This is Audience Is Me..md",
     "Untitled.md",
@@ -259,7 +259,6 @@
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/dog.gif",
     "node_modules/gifuct-js/demo/horses.gif",
-    "node_modules/js-binary-schema-parser/example/horses.gif",
-    "node_modules/js-binary-schema-parser/example/dog.gif"
+    "node_modules/js-binary-schema-parser/example/horses.gif"
   ]
 }
