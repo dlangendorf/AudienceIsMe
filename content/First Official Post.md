@@ -38,3 +38,5 @@ Why doesn't anything work like I expect it to?
 
 It never does.
 
+Still struggling with this and it's pissing me off even more, if that's possible.
+
