@@ -1,7 +1,7 @@
 ---
 tags:
   - AudienceIsMe
-title: First "Official" Post
+title: First Official Post
 description: just an experimental post to see if this actually works
 draft: "false"
 enableToc: "true"
