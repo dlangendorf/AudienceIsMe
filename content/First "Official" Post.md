@@ -36,3 +36,5 @@ And I'm using up my time on Gemini.
 
 Why doesn't anything work like I expect it to?
 
+It never does.
+
