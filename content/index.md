@@ -1,8 +1,6 @@
 ---
-title: Welcome to My World
-draft: false
+title: Welcome to AudienceIsMe
+draft: "false"
 ---
-
-# Hello World
-
-Welcome to AudienceIsMe.
+# Welcome
+Get started with [[Hello. This is Audience Is Me.]]

@@ -1,14 +1,28 @@
 {
   "main": {
-    "id": "3cc50a15a94bed5d",
+    "id": "d5220690e3198280",
     "type": "split",
     "children": [
       {
-        "id": "b9f2bb159f1073c5",
+        "id": "b2e75095e9ede249",
         "type": "tabs",
         "children": [
           {
-            "id": "b03062c93757c01e",
+            "id": "a44671ef479e1939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Hello. This is Audience Is Me..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello. This is Audience Is Me."
+            }
+          },
+          {
+            "id": "2ab731138e394e6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,28 +35,29 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d4d2f3e1e3b5c1ce",
+    "id": "6ade239eed9c18a8",
     "type": "split",
     "children": [
       {
-        "id": "93dc2ebc0a4c0c50",
+        "id": "4e3a2fd817094b67",
         "type": "tabs",
         "children": [
           {
-            "id": "d174ca438a289a79",
+            "id": "2a3ccdb6b8e36c99",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -50,7 +65,7 @@
             }
           },
           {
-            "id": "2c5fff41a9f8b3c9",
+            "id": "9f5984fb56093cd4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +82,7 @@
             }
           },
           {
-            "id": "e2757473404b8efd",
+            "id": "40f48f1985034954",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +101,20 @@
     "width": 300
   },
   "right": {
-    "id": "65ab4920156004f4",
+    "id": "7b8f7a8129f57dec",
     "type": "split",
     "children": [
       {
-        "id": "c9eb23e60d3d495d",
+        "id": "06bc7cc6502356fd",
         "type": "tabs",
         "children": [
           {
-            "id": "c2e50bbb63748e8a",
+            "id": "9555e823eed7ce2b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Hello. This is Audience Is Me..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +128,12 @@
             }
           },
           {
-            "id": "e85c3659ff09acf2",
+            "id": "4c5457dcf7176418",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Hello. This is Audience Is Me..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +142,7 @@
             }
           },
           {
-            "id": "ff618ea18ad91118",
+            "id": "17e402594d0cbe8c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +157,7 @@
             }
           },
           {
-            "id": "0a7f0b28d9c6c2b0",
+            "id": "0d7e80fa034d5aaf",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +171,12 @@
             }
           },
           {
-            "id": "ad582157eb169ad1",
+            "id": "440d8a50aca2e8dd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Hello. This is Audience Is Me..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,8 +184,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d9876a2c9957272c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,19 +211,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d174ca438a289a79",
+  "active": "2a3ccdb6b8e36c99",
   "lastOpenFiles": [
-    "content/attachments",
+    "gitignore.md",
     "content/index.md",
-    "index.md",
-    "index.md.txt",
-    "index.txt.sb-3cf074a6-hq2DOp",
-    "index.txt",
-    "content",
-    "Content",
-    "untitled folder"
+    "public/index-og-image.webp",
+    "public/postscript.js",
+    "public/prescript.js",
+    "public/index.css",
+    "public/Hello.-This-is-Audience-Is-Me.-og-image.webp",
+    "node_modules/pixi.js/lib/scene/text-split/types.d.ts",
+    "node_modules/pixi.js/lib/rendering/renderers/types.d.ts",
+    "node_modules/pixi.js/lib/scene/text/TextStyle.d.ts",
+    "node_modules/pixi.js/lib/scene/text/TextMixins.d.ts",
+    "node_modules/pixi.js/lib/scene/text-bitmap/TextBitmapMixins.d.ts",
+    "node_modules/pixi.js/lib/scene/text/Text.d.ts",
+    "node_modules/pixi.js/lib/rendering/renderers/shared/system/SystemRunner.d.ts",
+    "node_modules/mathjax-full/README.md",
+    "node_modules/mathjax-full/CONTRIBUTING.md",
+    "node_modules/pixi.js/README.md",
+    "node_modules/rxjs/README.md",
+    "node_modules/rxjs/CODE_OF_CONDUCT.md",
+    "node_modules/rxjs/CHANGELOG.md",
+    "node_modules/flexsearch/README.md",
+    "node_modules/flexsearch/CHANGELOG.md",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/typescript/README.md",
+    "node_modules/rehype-citation/README.md",
+    "node_modules/speech-rule-engine/README.md",
+    "node_modules/speech-rule-engine/bin/README.md",
+    "node_modules/@bufbuild/protobuf/README.md",
+    "node_modules/@img/sharp-libvips-darwin-arm64/README.md",
+    "node_modules/colorjs.io/README.md",
+    "node_modules/sass-embedded/README.md",
+    "node_modules/speech-rule-engine/lib/README.md",
+    "node_modules/katex/src/metrics/README.md",
+    "node_modules/katex/README.md",
+    "node_modules/@esbuild/darwin-arm64/README.md",
+    "node_modules/preact/README.md",
+    "node_modules/@citation-js/core/README.md",
+    "node_modules/@citation-js/core/LICENSE.md",
+    "node_modules/cli-spinner/img/spinner.gif",
+    "node_modules/gifuct-js/demo/jblack.gif",
+    "node_modules/gifuct-js/demo/dog.gif",
+    "node_modules/gifuct-js/demo/horses.gif",
+    "node_modules/js-binary-schema-parser/example/horses.gif",
+    "node_modules/js-binary-schema-parser/example/dog.gif",
+    "node_modules/js-binary-schema-parser/example/box.gif",
+    "quartz/static/og-image.png"
   ]
 }
