@@ -40,3 +40,11 @@ Why doesn't anything work like I expect it to?
 
 I'm getting closer.
 
+Edit: I should add why the hell am I doing this? Well, I wanted to start writing again . . . I wanted a place to work out this Medical project I have in mind . . . I wanted a place to play, experiment, opine, comment, do whatever the hell I wanted to . . . privately. For now.
+
+It's why I call it Audience Is Me. I'm the audience and maybe a few I invite to join.
+
+For now I have no interest in blogging, being an influencer, or "covering" a certain subject or topic of interest (pick one, there are many). BUT, and this is the BIG but, some of what I might be doing, writing about, exploring -- the whole medical thing -- might be of interest to others, so I'll see how it progresses.
+
+-me-
+
