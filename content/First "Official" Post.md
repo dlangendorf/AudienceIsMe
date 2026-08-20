@@ -1,27 +1,38 @@
 ---
 tags:
   - AudienceIsMe
-title: Untitled 1
-description: just an experimental post
+title: First "Official" Post
+description: just an experimental post to see if this actually works
 draft: "false"
 enableToc: "true"
 date: 2026-08-20
 lastmod: 2026-08-20
 ---
-# Headline
+# Getting Started with Quartz, Obsidian, Static Site Generators
 
 While I am against using AI for any writing or creative work, I am not against using it -- in this case Gemini -- to help with setting up technology. In this case:
 
-Out of the blue I decided to try Quartz, which led to setting it up, which led to working with it and Obsidian, which led to absolutely nothing working like I expected, which led with me troubleshooting with Gemini what the hell went wrong.
+Yesterday, out of the blue I decided to try Quartz and Obsidian. I set up Obsidian to work with Ghost Publishing, but I don't want -- at least not yet -- subscriptions, permissions, newsletters, which led me to Quartz.
 
-Lost were two, three hours and some brain cells.
+And having to set it up.
 
-Now, here I am, writing a "first post" after having set up Quartz 4, Obsidian, GitHub, and troubleshooting.
+With Obsidian.
 
-I want it to work smoothly.
+With GibHub.
 
-I expect it will not.
+With GitHub Desktop.
 
-If that's the case, I'm tired of sitting here, I need a shower, actually. I need to do my back exercises, anyway, so hop to it.
+I am so lost in the woods, but that's OK. This is what learning is all about.
 
-Now let's see what actually happened . . . 
+That and at least a tablespoon full of frustration. Nothing worked like I expected it to, which led to asking Gemini, being stupid, making mistakes, not understanding most of what is actually going on, and I'm sure some brain cells died jumping off the cliff of my brain.
+
+Now, this, technically is my first post *after* setting up Quartz 4, Obsidian, GitHub, and all the rest of a static site. Once you're in you're in, you're committed, and you don't want to give up until you win, you beat the technology monster.
+
+Of course, nothing works.
+
+Fuck.
+
+And I'm using up my time on Gemini.
+
+Why doesn't anything work like I expect it to?
+

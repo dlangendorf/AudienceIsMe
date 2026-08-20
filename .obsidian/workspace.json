@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/First \"Official\" Post.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First \"Official\" Post"
+              "title": "index"
             }
           }
         ]
@@ -213,12 +213,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "c86a85d3a4516c71",
+  "active": "28a1adf42e2897a4",
   "lastOpenFiles": [
-    "drafts/AI Declaration.md",
-    "content/Hello. This is Audience Is Me..md",
     "content/First \"Official\" Post.md",
     "content/index.md",
+    "drafts/AI Declaration.md",
+    "content/Hello. This is Audience Is Me..md",
     "Untitled.md",
     "Untitled 1.md",
     "drafts/templates/AIM Template.md",
