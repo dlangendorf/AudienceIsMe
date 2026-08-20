@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/First \"Official\" Post.md",
+                "file": "content/First Official Post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First \"Official\" Post"
+              "title": "First Official Post"
             }
           }
         ]
@@ -215,8 +215,10 @@
   },
   "active": "c86a85d3a4516c71",
   "lastOpenFiles": [
+    "public/First-Official-Post-og-image.webp",
+    "public/First-Official-Post.html",
     "content/index.md",
-    "content/First \"Official\" Post.md",
+    "content/First Official Post.md",
     "drafts/AI Declaration.md",
     "content/Hello. This is Audience Is Me..md",
     "Untitled.md",
@@ -238,7 +240,6 @@
     "public/index.css",
     "public/Hello.-This-is-Audience-Is-Me.-og-image.webp",
     "node_modules/pixi.js/lib/scene/text-split/types.d.ts",
-    "node_modules/pixi.js/lib/rendering/renderers/types.d.ts",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
     "node_modules/pixi.js/README.md",
@@ -254,7 +255,6 @@
     "node_modules/speech-rule-engine/bin/README.md",
     "node_modules/@bufbuild/protobuf/README.md",
     "node_modules/@img/sharp-libvips-darwin-arm64/README.md",
-    "node_modules/colorjs.io/README.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/dog.gif",
