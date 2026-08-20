@@ -6,8 +6,8 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
-const config: QuartzConfig = {
-  configuration: {
+ const config: QuartzConfig = {
+   configuration: {
     pageTitle: "Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
@@ -52,8 +52,8 @@ const config: QuartzConfig = {
         },
       },
     },
-  },
-  plugins: {
+   },
+   plugins: {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
@@ -91,7 +91,7 @@ const config: QuartzConfig = {
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
-  },
-}
+   },
+ }
 
-export default config
+export default config 
