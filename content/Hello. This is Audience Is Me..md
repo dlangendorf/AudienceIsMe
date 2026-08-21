@@ -4,9 +4,11 @@ tags:
 aliases:
   - first post in Audience is Me
 draft:
-title:
+title: Hello. This is Audience Is Me.
 description:
 date: 2026-08-18
+status:
+  - Published
 ---
 ## Welcome, Me
 
@@ -23,7 +25,7 @@ Oh, yeah, I forgot: I'll probably include interests, which may not interest anyb
 
 More than anything, I need to write again. It's been too long, but I don't want to start another blog, or to write some influencer specialty blog of some sort, or create social media content. I just want a place to go, to experiment, to pontificate, to be stupid, to explore, to not add to the noise.
 
-Before I start, I will make this declaration about AI . . . [[AI Declaration]].
+Before I start, I will make this declaration about AI . . . [[drafts/AI Declaration]].
 
 -me-
 

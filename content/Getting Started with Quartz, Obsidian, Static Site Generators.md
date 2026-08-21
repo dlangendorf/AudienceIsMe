@@ -1,12 +1,14 @@
 ---
 tags:
   - AudienceIsMe
-title: First Official Post
+title: Getting Started with Quartz, Obsidian, Static Site Generators
 description: just an experimental post to see if this actually works
 draft: "false"
 enableToc: "true"
 date: 2026-08-20
 lastmod: 2026-08-20
+status:
+  - Published
 ---
 # Wish I Knew Beforehand
 

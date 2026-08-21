@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date": "text",
-    "draft": "text"
+    "draft": "text",
+    "status": "multitext"
   }
 }

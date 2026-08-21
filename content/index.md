@@ -1,3 +1,6 @@
+---
+title: index
+---
 # Welcome
 Get started with [[Hello. This is Audience Is Me.]]
 
