@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Declaration.md",
+                "file": "drafts/AI Declaration.md",
                 "mode": "source",
                 "source": false
               },
@@ -28,14 +28,13 @@
               "type": "bases",
               "state": {
                 "file": "drafts/AudienceIsMe Base.base",
-                "viewName": "Table"
+                "viewName": "Status"
               },
               "icon": "lucide-table",
               "title": "AudienceIsMe Base"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,14 +226,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e3535df91256879c",
+  "active": "c86a85d3a4516c71",
   "lastOpenFiles": [
-    "AI Declaration.md",
-    "drafts/AI Declaration.md",
-    "drafts/AudienceIsMe Base.base",
-    "drafts/WordSketching.md",
     "content/index.md",
+    "drafts/AI Declaration.md",
+    "AI Declaration.md",
+    "drafts/AudienceIsMe Base.base",
     "content/Hello. This is Audience Is Me..md",
+    "drafts/WordSketching.md",
     "content/Getting Started with Quartz, Obsidian, Static Site Generators.md",
     "node_modules/content-disposition/HISTORY.md",
     "drafts/Writing Again.md",
