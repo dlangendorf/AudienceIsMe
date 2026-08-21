@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Wordy.md",
+                "file": "drafts/Writing Again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wordy"
+              "title": "Writing Again"
             }
           },
           {
@@ -228,8 +228,8 @@
   },
   "active": "c86a85d3a4516c71",
   "lastOpenFiles": [
-    "drafts/AudienceIsMe Base.base",
     "content/Wordy.md",
+    "drafts/AudienceIsMe Base.base",
     "drafts/Writing Again.md",
     "drafts/AI Declaration.md",
     "content/index.md",
