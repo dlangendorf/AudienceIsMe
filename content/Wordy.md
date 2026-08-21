@@ -1,14 +1,15 @@
 ---
 tags:
   - AudienceIsMe
+  - WordSketching
 title: Wordy
 description: promise to self edit
 draft: "false"
 status:
   - WordSketching
 enableToc: "true"
-date: 2026-08-21
 lastmod: 2026-08-21
+date: 2026-08-21
 ---
 It's fascinating how writing has changed over the years. I won't go in to it now. Writing as a journalist in the 70s, 80s, and 90s and as a blogger in the '90s and '00s will have to wait for when I have more time to discuss. #AIMtopic
 

@@ -1,10 +1,17 @@
 ---
+tags:
+  - AudienceIsMe
+aliases:
 title: index
+description: index page
+draft: "false"
+date:
+status:
+  - Published
+enableToc: "true"
+lastmod: <% tp.date.now("YYYY-MM-DD") %>
 ---
 # Welcome
 
-Get started with [[Hello. This is Audience Is Me.]]
+Audience Is Me is for me. This kind of explains why: [[Hello. This is Audience Is Me.]]
 
-A first-test post: [[Getting Started with Quartz, Obsidian, Static Site Generators]]
-
-So much to do . . . 
