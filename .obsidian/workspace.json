@@ -228,6 +228,8 @@
   },
   "active": "28a1adf42e2897a4",
   "lastOpenFiles": [
+    "quartz/static/icon.png",
+    "quartz/static/logo copy.png",
     "quartz.config.ts.sb-3cf074a6-biIwBO",
     "quartz/components/PageTitle.tsx.sb-3cf074a6-HI7WNF",
     "quartz.config.ts.sb-3cf074a6-8ke1jZ",
@@ -257,7 +259,6 @@
     "public/index-og-image.webp",
     "quartz.config~.ts",
     "gitignore.md",
-    "public/postscript.js",
     "public/Hello.-This-is-Audience-Is-Me.-og-image.webp",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
@@ -272,7 +273,6 @@
     "node_modules/rehype-citation/README.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
-    "node_modules/gifuct-js/demo/dog.gif",
-    "node_modules/gifuct-js/demo/horses.gif"
+    "node_modules/gifuct-js/demo/dog.gif"
   ]
 }
