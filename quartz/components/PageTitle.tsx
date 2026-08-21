@@ -10,10 +10,10 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
     <h1 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
         <img 
-          src={`${baseDir}/static/logo.png`} 
-          alt="Logo" 
-          style={{ height: "32px", width: "32px", marginRight: "8px", verticalAlign: "middle" }} 
-        />
+  src={joinSegments(baseDir, "static/logo.png")} 
+  alt="Logo" 
+  style={{ height: "32px", width: "32px", marginRight: "8px", verticalAlign: "middle" }} 
+/>
         {title}
       </a>
     </h1>

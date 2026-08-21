@@ -226,8 +226,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "c86a85d3a4516c71",
+  "active": "28a1adf42e2897a4",
   "lastOpenFiles": [
+    "quartz.config.ts.sb-3cf074a6-8ke1jZ",
+    "quartz/static/logo.png",
     "content/Wordy.md",
     "drafts/AudienceIsMe Base.base",
     "drafts/Writing Again.md",
@@ -271,7 +273,6 @@
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/dog.gif",
-    "node_modules/gifuct-js/demo/horses.gif",
-    "node_modules/js-binary-schema-parser/example/horses.gif"
+    "node_modules/gifuct-js/demo/horses.gif"
   ]
 }
