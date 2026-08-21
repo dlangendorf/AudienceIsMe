@@ -230,8 +230,10 @@
   },
   "active": "e3535df91256879c",
   "lastOpenFiles": [
-    "tags/Audience Is Me.md",
+    "Clippings/4 Medications That May Be Draining Your Energy.md",
     "content/index.md",
+    "Clippings",
+    "tags/Audience Is Me.md",
     "tags",
     "content/Wordy.md",
     "content/Getting Started with Quartz, Obsidian, Static Site Generators.md",
@@ -260,7 +262,6 @@
     "public/First-Post-og-image.webp",
     "public/First-Post.html",
     "drafts/templates",
-    "drafts",
     "public/index-og-image.webp",
     "gitignore.md",
     "public/Hello.-This-is-Audience-Is-Me.-og-image.webp",
@@ -273,7 +274,6 @@
     "node_modules/flexsearch/README.md",
     "node_modules/flexsearch/CHANGELOG.md",
     "node_modules/typescript/SECURITY.md",
-    "node_modules/typescript/README.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif"
   ]
