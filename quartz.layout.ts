@@ -38,6 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Here? I added { Component: Component.TagList() },
     Component.Explorer(),
   ],
   right: [
