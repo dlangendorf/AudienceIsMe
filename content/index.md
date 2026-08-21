@@ -1,4 +1,4 @@
 # Welcome
 Get started with [[Hello. This is Audience Is Me.]]
 
-To Test: [[First Official Post]]
+Just a Test: [[Getting Started with Quartz, Obsidian, Static Site Generators]]
