@@ -25,13 +25,14 @@
             "id": "e3535df91256879c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "drafts/AudienceIsMe Base.base",
-                "viewName": "Status"
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "AudienceIsMe Base"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -229,10 +230,13 @@
   },
   "active": "e3535df91256879c",
   "lastOpenFiles": [
-    "content/Getting Started with Quartz, Obsidian, Static Site Generators.md",
-    "content/Hello. This is Audience Is Me..md",
-    "content/Wordy.md",
+    "tags/Audience Is Me.md",
     "content/index.md",
+    "tags",
+    "content/Wordy.md",
+    "content/Getting Started with Quartz, Obsidian, Static Site Generators.md",
+    "drafts/AudienceIsMe Base.base",
+    "content/Hello. This is Audience Is Me..md",
     "Untitled 1.md",
     "Untitled.md",
     "drafts/WordSketching.md",
@@ -243,7 +247,6 @@
     "quartz/components/PageTitle.tsx.sb-3cf074a6-HI7WNF",
     "quartz.config.ts.sb-3cf074a6-8ke1jZ",
     "quartz/static/logo.png",
-    "drafts/AudienceIsMe Base.base",
     "drafts/AI Declaration.md",
     "AI Declaration.md",
     "node_modules/content-disposition/HISTORY.md",
@@ -259,7 +262,6 @@
     "drafts/templates",
     "drafts",
     "public/index-og-image.webp",
-    "quartz.config~.ts",
     "gitignore.md",
     "public/Hello.-This-is-Audience-Is-Me.-og-image.webp",
     "node_modules/mathjax-full/README.md",
@@ -272,7 +274,6 @@
     "node_modules/flexsearch/CHANGELOG.md",
     "node_modules/typescript/SECURITY.md",
     "node_modules/typescript/README.md",
-    "node_modules/rehype-citation/README.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif"
   ]

@@ -6,7 +6,7 @@ title: Wordy
 description: promise to self edit
 draft: "false"
 status:
-  - WordSketching
+  - Published
 enableToc: "true"
 lastmod: 2026-08-21
 date: 2026-08-21
