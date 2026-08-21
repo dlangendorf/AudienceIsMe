@@ -228,6 +228,8 @@
   },
   "active": "28a1adf42e2897a4",
   "lastOpenFiles": [
+    "quartz.config.ts.sb-3cf074a6-biIwBO",
+    "quartz/components/PageTitle.tsx.sb-3cf074a6-HI7WNF",
     "quartz.config.ts.sb-3cf074a6-8ke1jZ",
     "quartz/static/logo.png",
     "content/Wordy.md",
@@ -256,8 +258,6 @@
     "quartz.config~.ts",
     "gitignore.md",
     "public/postscript.js",
-    "public/prescript.js",
-    "public/index.css",
     "public/Hello.-This-is-Audience-Is-Me.-og-image.webp",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
