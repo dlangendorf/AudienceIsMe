@@ -1,10 +1,1 @@
----
-tags:
-  - AudienceIsMe
-title: Untitled
-description: add brief description for preview
-draft: "false"
-enableToc: "true"
-date: 2026-08-21
-lastmod: 2026-08-21
----
+I wonder what the +/- is for winning late or just extra innings wins vs blowing the lead late or losing in EI ... you knew we were going to pay the piper for those early season wins ... man, three or four tough losses recently and this team could be well over .500 and in the thick of the wild card race. 
