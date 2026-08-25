@@ -50,9 +50,7 @@ I will include other interests that many people, should this escape into the wil
 I will stay away from politics and cultural bullshit because I want this to be a happy place, a safe place, not a doomscrolling crack dungeon (nod to the Dungeon Crawler).
 
 This is for me.
-
---djl--
-
+![[djl-thought.png|50]]
 P.S. Before I start, I want to make a statement about AI and my use (or no use) of it. These are my damn words, all of them, for better or worse. Fuck AI. I learned to write, to string a few thoughts together, and how to spell. I'll sink or swim on my own.
 
 I will use AI for some research, which I will eventually document here: [[AI Declaration]]. But if I use any of that information, what results will be mine, not Gemini, Claude or Billy Bob's AI -- unless it's Billy Bob Thornton. I'll allow that.

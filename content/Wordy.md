@@ -18,5 +18,4 @@ Suffice to say, digital technology, screens, displays, devices, social media sit
 For now, I know I write too long. I need to find balance between writing what needs to be written -- no matter how long or how short -- and making it interesting and worth my time (or a reader's) in whatever form it takes -- short, long, "listacle", analysis, commentary, info graphic.
 
 Since I know I am wordy, I'll stop here. I made my point.
-
--- djl -- 
+![[djl-thought.png|50]]

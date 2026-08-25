@@ -21,5 +21,4 @@ The toilet is clogged.
 Has been all day.
 
 Maybe now the plunger works . . . 
-
--- djl -- 
+![[djl-thought.png|50]]
