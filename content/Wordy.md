@@ -3,7 +3,7 @@ tags:
   - AudienceIsMe
   - WordSketching
 title: Wordy
-description: promise to self edit
+description: promise to myself to edit
 draft: "false"
 status:
   - Published

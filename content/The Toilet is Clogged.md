@@ -7,6 +7,8 @@ draft: "false"
 enableToc: "true"
 date: 2026-08-25
 lastmod: 2026-08-25
+status:
+  - Published
 ---
 ## What's going on?
 
