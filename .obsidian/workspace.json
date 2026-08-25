@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Hello. This is Audience Is Me..md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello. This is Audience Is Me."
+              "title": "index"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "The Toilet is Clogged"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,18 +227,18 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e3535df91256879c",
+  "active": "c86a85d3a4516c71",
   "lastOpenFiles": [
+    "content/Hello. This is Audience Is Me..md",
+    "The Toilet is Clogged.md",
     "icon.png",
     "Test.md",
-    "The Toilet is Clogged.md",
     "content/Test.md",
     "github.",
     "github",
     "untitled folder",
     "Untitled 2.md",
     "Untitled.md",
-    "content/Hello. This is Audience Is Me..md",
     "content/index.md",
     "content/Getting Started with Quartz, Obsidian, Static Site Generators.md",
     "content/Wordy.md",
