@@ -228,8 +228,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e3535df91256879c",
+  "active": "28a1adf42e2897a4",
   "lastOpenFiles": [
+    "github.",
+    "github",
+    "untitled folder",
     "Untitled 2.md",
     "content/Test.md",
     "The Toilet is Clogged.md",
@@ -264,8 +267,6 @@
     "public/First-\"Official\"-Post-og-image.webp",
     "public/First-\"Official\"-Post.html",
     "public/First-Post-og-image.webp",
-    "public/First-Post.html",
-    "drafts/templates",
     "public/index-og-image.webp",
     "gitignore.md",
     "public/Hello.-This-is-Audience-Is-Me.-og-image.webp",
@@ -274,7 +275,6 @@
     "node_modules/pixi.js/README.md",
     "node_modules/rxjs/README.md",
     "node_modules/rxjs/CODE_OF_CONDUCT.md",
-    "node_modules/rxjs/CHANGELOG.md",
     "node_modules/cli-spinner/img/spinner.gif"
   ]
 }
