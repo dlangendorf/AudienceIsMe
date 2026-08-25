@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Toilet is Clogged.md",
+                "file": "content/The Toilet is Clogged.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,7 +35,8 @@
               "title": "The Toilet is Clogged"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,9 +230,10 @@
   },
   "active": "28a1adf42e2897a4",
   "lastOpenFiles": [
+    "content/index.md",
     "quartz.layout.ts.sb-3cf074a6-ypvzxZ",
     "content/Hello. This is Audience Is Me..md",
-    "The Toilet is Clogged.md",
+    "content/The Toilet is Clogged.md",
     "icon.png",
     "Test.md",
     "content/Test.md",
@@ -240,7 +242,6 @@
     "untitled folder",
     "Untitled 2.md",
     "Untitled.md",
-    "content/index.md",
     "content/Getting Started with Quartz, Obsidian, Static Site Generators.md",
     "content/Wordy.md",
     "Clippings/4 Medications That May Be Draining Your Energy.md",
@@ -260,7 +261,6 @@
     "AI Declaration.md",
     "node_modules/content-disposition/HISTORY.md",
     "public/First-Official-Post-og-image.webp",
-    "public/First-Official-Post.html",
     "drafts/templates/AIM Template.md",
     "content/AI Declaration.md",
     "content/First Post.md",
