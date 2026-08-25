@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     { Component: Component.TagList() },
-    Component.Explorer(),
+    { Component: Component.Explorer() },
   ],
   right: [
     Component.Graph(),
