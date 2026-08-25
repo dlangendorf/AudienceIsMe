@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Wordy.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wordy"
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,12 +228,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "c86a85d3a4516c71",
+  "active": "e3535df91256879c",
   "lastOpenFiles": [
-    "content/Getting Started with Quartz, Obsidian, Static Site Generators.md",
     "content/Wordy.md",
-    "content/index.md",
     "content/Hello. This is Audience Is Me..md",
+    "content/Getting Started with Quartz, Obsidian, Static Site Generators.md",
+    "content/index.md",
     "icon.png",
     "Untitled.md",
     "Clippings/4 Medications That May Be Draining Your Energy.md",
