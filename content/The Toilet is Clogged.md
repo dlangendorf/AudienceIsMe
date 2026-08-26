@@ -12,13 +12,14 @@ status:
 ---
 ## What's going on?
 
-For the last several hours I've been looking for needles in the haystack. Cliche', yes, but accurate. Setting up a static site using Obsidian, Quartz, and Git . . . what a major pain in the ass.
+I made the decision to try a static site generator [[Using AI to Get Started with Obsidian, Quartz, GitHub]]. For the last several hours I've been looking for needles in a haystack -- cliche', yes, but accurate.
 
-So this is a test to see how publishing flow is going.
+Setting up a static site using Obsidian, Quartz, and Git can be a major pain in the ass, depending on the technology used and one's experience with it. This post is a simple test to see how the publishing flow is flowing.
 
-The toilet is clogged.
+The toilet remains clogged.
 
-Has been all day.
+Damn.
 
-Maybe now the plunger works . . . 
+I need a digital plunger.
+
 ![[djl-thought.png|50]]

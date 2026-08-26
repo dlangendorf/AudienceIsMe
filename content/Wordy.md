@@ -11,11 +11,18 @@ enableToc: "true"
 lastmod: 2026-08-21
 date: 2026-08-21
 ---
-It's fascinating how writing has changed over the years. I won't go in to it now. Writing as a journalist in the 70s, 80s, and 90s and as a blogger in the '90s and '00s will have to wait for when I have more time to discuss. #AIMtopic
+## An Admission
 
-Suffice to say, digital technology, screens, displays, devices, social media sites, social networks, apps, and so much more has seriously impacted how people read and write -- for better and worse. It's a deep subject -- for later. #AIMtopic 
+This is another sample post, but **one with truth**.
 
-For now, I know I write too long. I need to find balance between writing what needs to be written -- no matter how long or how short -- and making it interesting and worth my time (or a reader's) in whatever form it takes -- short, long, "listacle", analysis, commentary, info graphic.
+I've been away from "formal" writing, either as a journalist, a researcher, a blogger, or a professor, for a while and I'm rusty.
 
-Since I know I am wordy, I'll stop here. I made my point.
+Wordy, to be more precise.
+
+I realize I write too long, especially by today's web standards, where TL;DR (internet slang for "too long; didn't read") reigns. If a post isn't short or in some "listacle" form nobody it seems wants to read.
+
+So, a promise to myself (and to any future reader(s) ): I'll be less wordy.
+
+I'll stop now. I made my point.
+
 ![[djl-thought.png|50]]

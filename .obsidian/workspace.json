@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Hello. This is Audience Is Me..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Hello. This is Audience Is Me."
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/The Toilet is Clogged.md",
+                "file": "content/Wordy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Toilet is Clogged"
+              "title": "Wordy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,13 +228,15 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "c86a85d3a4516c71",
+  "active": "e3535df91256879c",
   "lastOpenFiles": [
-    "content/Getting Started with Quartz, Obsidian, Static Site Generators.md",
-    "content/Hello. This is Audience Is Me..md",
     "content/The Toilet is Clogged.md",
-    "content/Wordy.md",
+    "content/Hello. This is Audience Is Me..md",
+    "content/Using AI to Get Started with Obsidian, Quartz, GitHub.md",
+    "CleanShot 2026-08-26 at 13.03.23@2x.png",
+    "CleanShot 2026-08-26 at 13.01.20@2x.png",
     "content/index.md",
+    "content/Wordy.md",
     "content/attachments/djl-thought.png",
     "quartz.layout.ts.sb-3cf074a6-ypvzxZ",
     "icon.png",
@@ -266,9 +269,7 @@
     "content/First Post.md",
     "public/First-\"Official\"-Post-og-image.webp",
     "public/First-Post-og-image.webp",
-    "public/index-og-image.webp",
     "gitignore.md",
-    "public/Hello.-This-is-Audience-Is-Me.-og-image.webp",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
     "node_modules/pixi.js/README.md",
