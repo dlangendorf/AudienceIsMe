@@ -15,7 +15,7 @@ date: 2026-08-21
 
 This is another sample post, but **one with truth**.
 
-I've been away from "formal" writing, either as a journalist, a researcher, a blogger, or a professor, for a while and I'm rusty.
+I've been away from "formal" writing, either as a journalist, a researcher, a blogger, or a professor, for a while and **I'm rusty**.
 
 Wordy, to be more precise.
 

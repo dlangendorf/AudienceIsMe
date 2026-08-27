@@ -36,7 +36,7 @@ That's it.
 
 **Could this be a service?** Probably, but I haven't gone too far down this rabbit hole. It could be a dumb-ass idea.
 
-**Could this be a physical product?** Yes. Or more likely a combination medical app with a physical journal companion (or even a book!).
+**Could this be a physical product?** Yes. Or more likely a combination medical app with a physical journal companion (or even a book!). 
 
 [[The Genesis of MyMedicalBase]]
 
