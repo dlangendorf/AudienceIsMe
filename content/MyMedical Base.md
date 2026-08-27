@@ -30,7 +30,7 @@ Adding it up, **MyMedical Base is a personal, secure, and simple way to record, 
 
 That's it.
 ![[djl-thought.png|75]]
-## A Few More Thoughts
+## One More Thought
 
 **Could this be an app?** Sure, if I knew how to code and develop software. The most likely outcome for MyMedicalBase is, in fact, an app. But what kind of app? How can I develop without coding experience? Questions for JKyle and Chip.
 
@@ -39,3 +39,5 @@ That's it.
 **Could this be a physical product?** Yes. Or more likely a combination medical app with a physical journal companion (or even a book!).
 
 [[The Genesis of MyMedicalBase]]
+
+#MyMedicalBase

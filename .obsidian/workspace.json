@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Hello. This is Audience Is Me..md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello. This is Audience Is Me."
+              "title": "index"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "MyMedical Base"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,11 +227,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e3535df91256879c",
+  "active": "c86a85d3a4516c71",
   "lastOpenFiles": [
-    "The Genesis of MyMedicalBase.md",
     "content/MyMedical Base.md",
+    "content/index.md",
     "content/Hello. This is Audience Is Me..md",
+    "The Genesis of MyMedicalBase.md",
     "content/Wordy.md",
     "Untitled.canvas",
     "2026 is Over.md",
@@ -244,7 +244,6 @@
     "RIP 2026.md",
     "content/The Toilet is Clogged.md",
     "content/Using AI to Get Started with Obsidian, Quartz, GitHub.md",
-    "content/index.md",
     "content/attachments/djl-thought.png",
     "quartz.layout.ts.sb-3cf074a6-ypvzxZ",
     "Test.md",

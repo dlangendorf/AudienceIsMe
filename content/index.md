@@ -23,6 +23,10 @@ A few sample starter posts as I work out the kinks:
 - [[The Toilet is Clogged]]
 - [[Wordy]]
 
+And the start of a project: [[MyMedical Base]].
+
+What the heck is MyMedicalBase?
+
 Until next time . . . 
 
 ![[djl-thought.png|50]]
