@@ -25,14 +25,12 @@
             "id": "e3535df91256879c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "RIP 2026.md",
-                "mode": "source",
-                "source": false
+                "file": "icon.png"
               },
-              "icon": "lucide-file",
-              "title": "RIP 2026"
+              "icon": "lucide-image",
+              "title": "icon"
             }
           }
         ],
@@ -228,16 +226,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e3535df91256879c",
+  "active": "28a1adf42e2897a4",
   "lastOpenFiles": [
-    "drafts/Untitled.md",
+    "CleanShot 2026-08-26 at 13.01.20@2x.png",
+    "CleanShot 2026-08-26 at 13.03.23@2x.png",
     "RIP 2026.md",
+    "drafts/Untitled.md",
     "content/Wordy.md",
     "content/The Toilet is Clogged.md",
     "content/Hello. This is Audience Is Me..md",
     "content/Using AI to Get Started with Obsidian, Quartz, GitHub.md",
-    "CleanShot 2026-08-26 at 13.03.23@2x.png",
-    "CleanShot 2026-08-26 at 13.01.20@2x.png",
     "content/index.md",
     "content/attachments/djl-thought.png",
     "quartz.layout.ts.sb-3cf074a6-ypvzxZ",
@@ -274,7 +272,6 @@
     "gitignore.md",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
-    "node_modules/pixi.js/README.md",
-    "node_modules/rxjs/README.md"
+    "node_modules/pixi.js/README.md"
   ]
 }
