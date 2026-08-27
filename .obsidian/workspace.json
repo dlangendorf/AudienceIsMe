@@ -25,12 +25,14 @@
             "id": "e3535df91256879c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "icon.png"
+                "file": "content/MyMedical Base.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "icon"
+              "icon": "lucide-file",
+              "title": "MyMedical Base"
             }
           }
         ],
@@ -107,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 487.97265625
   },
   "right": {
     "id": "7b8f7a8129f57dec",
@@ -226,26 +228,30 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "28a1adf42e2897a4",
+  "active": "e3535df91256879c",
   "lastOpenFiles": [
+    "The Genesis of MyMedicalBase.md",
+    "content/MyMedical Base.md",
+    "content/Hello. This is Audience Is Me..md",
+    "content/Wordy.md",
+    "Untitled.canvas",
+    "2026 is Over.md",
+    "Pasted image 20260827104853.png",
+    "drafts/Untitled.md",
+    "icon.png",
     "CleanShot 2026-08-26 at 13.01.20@2x.png",
     "CleanShot 2026-08-26 at 13.03.23@2x.png",
     "RIP 2026.md",
-    "drafts/Untitled.md",
-    "content/Wordy.md",
     "content/The Toilet is Clogged.md",
-    "content/Hello. This is Audience Is Me..md",
     "content/Using AI to Get Started with Obsidian, Quartz, GitHub.md",
     "content/index.md",
     "content/attachments/djl-thought.png",
     "quartz.layout.ts.sb-3cf074a6-ypvzxZ",
-    "icon.png",
     "Test.md",
     "content/Test.md",
     "github.",
     "github",
     "untitled folder",
-    "Untitled 2.md",
     "Untitled.md",
     "Clippings/4 Medications That May Be Draining Your Energy.md",
     "Clippings",
@@ -268,10 +274,7 @@
     "content/AI Declaration.md",
     "content/First Post.md",
     "public/First-\"Official\"-Post-og-image.webp",
-    "public/First-Post-og-image.webp",
     "gitignore.md",
-    "node_modules/mathjax-full/README.md",
-    "node_modules/mathjax-full/CONTRIBUTING.md",
-    "node_modules/pixi.js/README.md"
+    "node_modules/mathjax-full/README.md"
   ]
 }
