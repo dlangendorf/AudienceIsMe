@@ -35,5 +35,5 @@ Look, without Gemini and an excellent screenshot maker I never would have gotten
 
 But these words -- all mine. AI-free.
 ![[djl-thought.png|50]]
-
+#WordSketching 
 

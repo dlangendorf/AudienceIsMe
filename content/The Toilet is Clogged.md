@@ -23,3 +23,4 @@ Damn.
 I need a digital plunger.
 
 ![[djl-thought.png|50]]
+#WordSketching 

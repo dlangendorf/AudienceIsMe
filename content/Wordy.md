@@ -26,3 +26,4 @@ So, a promise to myself (and to any future reader(s) ): I'll be less wordy.
 I'll stop now. I made my point.
 
 ![[djl-thought.png|50]]
+#WordSketching 
