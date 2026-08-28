@@ -2,7 +2,7 @@
 tags:
   - AudienceIsMe
   - MyMedicalBase
-title: <% tp.file.title %>
+title: MyMedical Base
 description: add brief description for preview
 status:
   - Published

@@ -4,13 +4,13 @@ tags:
 aliases:
   - first post in Audience is Me
 draft: "false"
+enableToc: "true"
 title: Hello. This is Audience Is Me.
 description:
 date: 2026-08-18
 status:
   - Published
 lastmod: <% tp.date.now("YYYY-MM-DD") %>
-enableToc: "true"
 ---
 ## Welcome
 
