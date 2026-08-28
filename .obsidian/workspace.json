@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/MyMedical Base.md",
+                "file": "content/Hello. This is Audience Is Me..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MyMedical Base"
+              "title": "Hello. This is Audience Is Me."
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Wordy.md",
+                "file": "drafts/The Genesis of MyMedicalBase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wordy"
+              "title": "The Genesis of MyMedicalBase"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,15 +228,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "c86a85d3a4516c71",
+  "active": "e3535df91256879c",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/The Toilet is Clogged.md",
-    "content/Hello. This is Audience Is Me..md",
-    "content/Using AI to Get Started with Obsidian, Quartz, GitHub.md",
-    "content/Wordy.md",
+    "drafts/AudienceIsMe Base.base",
+    "drafts/The Genesis of MyMedicalBase.md",
     "content/MyMedical Base.md",
-    "The Genesis of MyMedicalBase.md",
+    "content/Using AI to Get Started with Obsidian, Quartz, GitHub.md",
+    "content/Hello. This is Audience Is Me..md",
+    "content/The Toilet is Clogged.md",
+    "content/Wordy.md",
+    "content/index.md",
     "Untitled.canvas",
     "2026 is Over.md",
     "Pasted image 20260827104853.png",
@@ -256,7 +258,6 @@
     "Clippings",
     "tags/Audience Is Me.md",
     "tags",
-    "drafts/AudienceIsMe Base.base",
     "drafts/WordSketching.md",
     "drafts/Writing Again.md",
     "quartz/static/icon.png",

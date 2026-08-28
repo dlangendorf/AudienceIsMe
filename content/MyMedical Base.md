@@ -1,6 +1,7 @@
 ---
 tags:
   - AudienceIsMe
+  - MyMedicalBase
 title: <% tp.file.title %>
 description: add brief description for preview
 status:
@@ -29,6 +30,7 @@ My . . . Medical . . . Base.
 Adding it up, **MyMedical Base is a personal, secure, and simple way to record, tag, file away, retrieve and use all the medical information that's important in someone's life.** A medical dashboard of sorts that is readily available, convenient to use, user customizable, and gives people "peace of mind" knowing their medical information will be there when needed.
 
 That's it.
+
 ![[djl-thought.png|75]]
 ## One More Thought
 
@@ -39,5 +41,3 @@ That's it.
 **Could this be a physical product?** Yes. Or more likely a combination medical app with a physical journal companion (or even a book!). 
 
 [[The Genesis of MyMedicalBase]]
-
-#MyMedicalBase

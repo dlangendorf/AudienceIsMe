@@ -1,6 +1,7 @@
 ---
 tags:
   - AudienceIsMe
+  - WordSketching
 title: The Toilet is Clogged
 description: just a test post to see if i can get this working
 draft: "false"
@@ -23,4 +24,3 @@ Damn.
 I need a digital plunger.
 
 ![[djl-thought.png|50]]
-#WordSketching 
